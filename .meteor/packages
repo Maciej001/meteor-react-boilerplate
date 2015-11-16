@@ -27,3 +27,4 @@ kadira:flow-router
 kadira:react-layout
 check
 audit-argument-checks
+accounts-password
